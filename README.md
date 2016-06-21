@@ -1,6 +1,6 @@
 # Instagram bot v1.0  
 
-Hi guys! This is my version of Instagram bot with UI, written on C#.
+Hi guys! This is my version of Instagram bot with UI, written on C#. Works without the new Instagram [api][2] (the new review process).
 
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=7BMM6JGE73322&lc=US&item_name=GitHub%20donation&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted" title="Support project"><img src="https://img.shields.io/badge/Support%20project-paypal-brightgreen.svg"></a>
 <a href="https://github.com/LevPasha/instabot.py" title="python InstaBot"><img src="https://img.shields.io/badge/python%20InstaBot-v1.0.1-blue.svg"></a>
@@ -30,3 +30,4 @@ If you want source code of this program - contact me.
 <img src="http://lionscrayons.com/upload/Shut-up-and-take-my-money.jpg">
 
 [1]: https://github.com/LevPasha/Instagram-API-python
+[2]: http://developers.instagram.com/post/133424514006/instagram-platform-update
