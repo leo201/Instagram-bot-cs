@@ -3,6 +3,8 @@
 Hi guys! This is my version of Instagram bot with UI, written on C#.
 
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=7BMM6JGE73322&lc=US&item_name=GitHub%20donation&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted" title="Support project"><img src="https://img.shields.io/badge/Support%20project-paypal-brightgreen.svg"></a>
+<a href="https://github.com/LevPasha/instabot.py" title="python InstaBot"><img src="https://img.shields.io/badge/python%20InstaBot-v1.0.1-blue.svg"></a>
+<a href="https://github.com/LevPasha/Instagram-API-python" title="python Instagram API"><img src="https://img.shields.io/badge/python%20InstaAPI-v%20b0.0.1-orange.svg"></a>
 
 I take my python version [Instagram-API-python][1] and make user friendly UI for it. Yes I do it for you, my lovely users, that have many difficulties with console and writing code.
 
@@ -20,6 +22,7 @@ Use it for change "Trial" to "GitHub" version: 7c4645885b1113a1665cb6bb433ee7f6
 
 ### Different version?
 If you want "Full" version - make some donation and I will send key for you (now "Full" same as "GitHub" version).
+
 If you want source code of this program - contact me.
 
 <img src="http://lionscrayons.com/upload/Shut-up-and-take-my-money.jpg">
