@@ -1,2 +1,27 @@
-# Instagram-bot-cs
-Instagram bot write on C#
+# Instagram bot v1.0  
+
+Hi guys! This is my version of Instagram bot with UI, written on C#.
+
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=7BMM6JGE73322&lc=US&item_name=GitHub%20donation&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted" title="Support project"><img src="https://img.shields.io/badge/Support%20project-paypal-brightgreen.svg"></a>
+
+I take my python version [Instagram-API-python][1] and make user friendly UI for it. Yes I do it for you, my lovely users, that have many difficulties with console and writing code.
+
+In this time I don't want to open source, any you should use it AS-IS.
+
+All of your data storage local (encrypted), and send ONLY to Instagram by https.
+
+This project will develop, provided YOUR interest in it.
+
+### Warning!
+The End-User assumes sole responsibility for anything resulting from the use this program. This is bot and I can't give 100% guaranty that you will not be banned. But for few months of work there is now ban for my users.
+
+### GitHub code
+Use it for change "Trial" to "GitHub" version: 7c4645885b1113a1665cb6bb433ee7f6
+
+### Different version?
+If you want "Full" version - make some donation and I will send key for you (now "Full" same as "GitHub" version).
+If you want source code of this program - contact me.
+
+<img src="http://lionscrayons.com/upload/Shut-up-and-take-my-money.jpg">
+
+[1]: https://github.com/LevPasha/Instagram-API-python
