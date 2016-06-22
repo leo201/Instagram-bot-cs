@@ -6,7 +6,7 @@ Hi guys! This is my version of Instagram bot with UI, written on C#. Works witho
 <a href="https://github.com/LevPasha/instabot.py" title="python InstaBot"><img src="https://img.shields.io/badge/python%20InstaBot-v1.0.1-blue.svg"></a>
 <a href="https://github.com/LevPasha/Instagram-API-python" title="python Instagram API"><img src="https://img.shields.io/badge/python%20InstaAPI-v%20b0.0.1-orange.svg"></a>
 
-<img src="http://lionscrayons.com/upload/ib_img.jpg">
+<img src="http://lionscrayons.com/upload/ib_img_2.jpg">
 
 I take my python version [Instagram-API-python][1] and make user friendly UI for it. Yes I do it for you, my lovely users, that have many difficulties with console and writing code.
 
