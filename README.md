@@ -1,4 +1,4 @@
-# Instagram bot v1.0  
+# Instagram bot v1.0.0.2  
 
 Hi guys! This is my version of Instagram bot with UI, written on C#. Works without the new Instagram [api][2] (the new review process).
 
